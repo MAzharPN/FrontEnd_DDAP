@@ -1,0 +1,489 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  width: 100%;
+  height: 4307px;
+  position: relative;
+  overflow: hidden;
+}
+.navbar {
+  background: var(--red-r-500, #ff3333);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  position: absolute;
+  left: 188px;
+  top: 113px;
+}
+.beranda {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+}
+.achievement {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: relative;
+}
+.sponsor {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: relative;
+}
+.player {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: relative;
+}
+.testimoni {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: relative;
+}
+.division {
+  width: 1065px;
+  height: 789px;
+  position: absolute;
+  left: 168px;
+  top: 1813px;
+}
+.rectangle-54 {
+  background: var(--red-r-200, #ffc2ad);
+  width: 1065px;
+  height: 572px;
+  position: absolute;
+  left: 0px;
+  top: 104px;
+}
+.division2 {
+  color: var(--red-r-500, #ff3333);
+  text-align: left;
+  font: 700 70px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 165.5px);
+  top: 0px;
+  width: 603px;
+  height: 346px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.frame-12 {
+  background: var(--orange-o-700, #ae1918);
+  border-radius: 25px;
+  padding: 10px 17px 10px 17px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - 116.35px);
+  top: calc(50% - -340.5px);
+}
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 24px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 5.69px);
+  top: calc(50% - 14.5px);
+}
+.frame-13 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: var(--red-r-500, #ff3333);
+  border-width: 1px;
+  padding: 10px 17px 10px 17px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - 45.19px);
+  top: calc(50% - -340.5px);
+}
+._2 {
+  color: var(--red-r-500, #ff3333);
+  text-align: left;
+  font: 700 24px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 7.69px);
+  top: calc(50% - 15px);
+}
+.frame-14 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: var(--red-r-500, #ff3333);
+  border-width: 1px;
+  padding: 10px 17px 10px 17px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - -25.96px);
+  top: calc(50% - -340.5px);
+}
+._3 {
+  color: var(--red-r-500, #ff3333);
+  text-align: left;
+  font: 700 24px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 7.69px);
+  top: calc(50% - 15px);
+}
+.frame-16 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: 345px;
+  top: 735px;
+}
+.keyboard-backspace {
+  position: absolute;
+  left: 11px;
+  top: 11px;
+  overflow: visible;
+}
+.frame-17 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: var(--red-r-500, #ff3333);
+  border-width: 1px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: 687px;
+  top: 789px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.keyboard-backspace2 {
+  position: absolute;
+  left: 11px;
+  top: 11px;
+  overflow: visible;
+}
+.image-4 {
+  width: 1027px;
+  height: 525px;
+  position: absolute;
+  left: 14px;
+  top: 125px;
+}
+.about-section {
+  width: 1035px;
+  height: 687px;
+  position: absolute;
+  left: 183px;
+  top: 729px;
+}
+.profile {
+  color: var(--red-r-500, #ff3333);
+  text-align: left;
+  font: 700 70px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 109.5px);
+  top: 0px;
+  width: 516px;
+  height: 80px;
+}
+.rectangle-53 {
+  background: var(--red-r-200, #ffc2ad);
+  width: 480px;
+  height: 547px;
+  position: absolute;
+  left: 0px;
+  top: 136px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-56 {
+  background: var(--red-r-200, #ffc2ad);
+  width: 476px;
+  height: 547px;
+  position: absolute;
+  left: 559px;
+  top: 136px;
+}
+.rectangle-68 {
+  width: 442px;
+  height: 502px;
+  position: absolute;
+  left: 19px;
+  top: 159px;
+}
+.rectangle-682 {
+  width: 442px;
+  height: 502px;
+  position: absolute;
+  left: 576px;
+  top: 159px;
+}
+.aura-fire-itself-was-formed-on-august-2nd-2018-quoted-from-liquipedia-the-aura-organization-itself-was-founded-in-the-same-year-in-june-since-then-aura-has-developed-several-divisions-one-of-which-is-mobile-legends {
+  color: #000000;
+  text-align: justified;
+  font: 700 48px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: 183px;
+  top: 1470px;
+  width: 1035px;
+  height: 290px;
+}
+.aura-red-is-a-team-whose-work-is-no-longer-in-doubt-in-the-indonesian-mobile-legends-scene-the-team-which-was-formed-in-2018-has-a-lot-of-achievements-starting-from-winning-the-2021-esports-president-s-cup-to-others {
+  color: #000000;
+  text-align: justified;
+  font: 400 40px "Eras Bold ITC", sans-serif;
+  position: absolute;
+  left: 683px;
+  top: 204px;
+  width: 567px;
+}
+.rectangle-61 {
+  border-radius: 30px;
+  position: absolute;
+  left: 187px;
+  top: 4007px;
+  overflow: visible;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #f6c23d;
+  border-width: 1px 0 0 0;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 160px;
+  transform-origin: 0 0;
+  transform: rotate(-0.119deg) scale(1, 1);
+}
+.rectangle-66 {
+  border-radius: 20px;
+  position: absolute;
+  left: 171px;
+  top: 207px;
+  overflow: visible;
+}
+.image-1 {
+  width: 343px;
+  height: 423px;
+  position: absolute;
+  left: 291px;
+  top: 2830px;
+}
+.image-2 {
+  width: 373px;
+  height: 423px;
+  position: absolute;
+  left: 718px;
+  top: 2830px;
+}
+.image-3 {
+  width: 895px;
+  height: 410px;
+  position: absolute;
+  left: 236px;
+  top: 3406px;
+}
+.aura-merch {
+  color: var(--red-r-500, #ff3333);
+  text-align: center;
+  font: 700 64px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: 471px;
+  top: 2684px;
+}
+.aura-red {
+  color: #ff2929;
+  text-align: left;
+  font: 900 24px "Inter", sans-serif;
+  position: absolute;
+  left: 309px;
+  top: 59px;
+  width: 146px;
+  height: 41px;
+}
+.vector3 {
+  position: absolute;
+  left: 191px;
+  top: 52px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 230px;
+  top: 52px;
+  overflow: visible;
+}
+.button {
+  background: var(--red-r-500, #ff3333);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 425px;
+  top: 3285px;
+}
+.button-primary {
+  color: #ffffff;
+  text-align: center;
+  font: var(--button-16, 500 16px "Inter", sans-serif);
+  position: relative;
+}
+.button2 {
+  background: var(--red-r-500, #ff3333);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 875px;
+  top: 3285px;
+}
+.button3 {
+  background: var(--red-r-500, #ff3333);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 638px;
+  top: 3879px;
+}
+.cari-tau-berita-terbaru {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 600 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 980px;
+  top: 4036px;
+}
+.contact {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 600 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 4040px;
+  width: 73px;
+  height: 27px;
+}
+.instagram {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 4107px;
+}
+.facebook {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 4163px;
+}
+.tiktok {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 4219px;
+}
+.whatsapp {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 724px;
+  top: 4275px;
+}
+.youtube-logo-hd-8-2 {
+  width: 64px;
+  height: 53px;
+  position: absolute;
+  left: 990px;
+  top: 4085px;
+}
+.tiktok-5962992-1280-2 {
+  width: 59px;
+  height: 53px;
+  position: absolute;
+  left: 1079px;
+  top: 4085px;
+}
+.instagram-logo-2016-2 {
+  width: 57px;
+  height: 53px;
+  position: absolute;
+  left: 1172px;
+  top: 4085px;
+}
+.aura-red2 {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 600 22px "Outfit", sans-serif;
+  position: absolute;
+  left: 206px;
+  top: 4039px;
+}
+.merch-order {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 600 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 428px;
+  top: 4039px;
+}
+.home {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 428px;
+  top: 4110px;
+}
+.about {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 428px;
+  top: 4166px;
+}
+.testimoni2 {
+  color: var(--white, #eef1f3);
+  text-align: left;
+  font: 400 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 424px;
+  top: 4219px;
+  width: 71px;
+  height: 21px;
+}
